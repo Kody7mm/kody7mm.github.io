@@ -45,9 +45,14 @@ img {
 .subtitle {
   color: green;
   font-size: 25px;
+  font-style: normal;
 }
 
 .important {
   color: red;
   font-weight: bold;
+}
+
+.about {
+  font-style: italic;
 }

@@ -34,3 +34,8 @@ img.intro {
   color: green;
   font-size: 25px;
 }
+
+.important {
+  color: red;
+  font-weight: bold;
+}

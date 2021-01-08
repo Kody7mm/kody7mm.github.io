@@ -11,9 +11,9 @@
 This website was built to showcase the projects and work of Kody Gordon. Inside you'll find different works showing different uses for HTML and CSS code. 
 
 ## Setup/Installation Requirement
-* [Portfolio](https://github.com/kody7mm/portfolio.git) website
-[gh-pages](https://github.com/Kody7mm/kody7mm.github.io.git/portfolio) website
-* Clone from [repository](https://github.com/kody7mm/portfolio.git)
+* [Portfolio](https://github.com/kody7mm/portfolio.git)
+* [gh-pages](https://github.com/Kody7mm/kody7mm.github.io.git/portfolio)
+* Can be cloned from [repository](https://github.com/kody7mm/portfolio.git)
 
 ## Known Bugs
 * Design will be improved

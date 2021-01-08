@@ -12,12 +12,13 @@ This website was built to showcase the projects and work of Kody Gordon. Inside 
 
 ## Setup/Installation Requirement
 * [Portfolio](https://github.com/kody7mm/portfolio.git) website
-[gh-pages](https://github.com/Kody7mm/kody7mm.github.io.git) website
+[gh-pages](https://github.com/Kody7mm/kody7mm.github.io.git/portfolio) website
 * Clone from [repository](https://github.com/kody7mm/portfolio.git)
 
 ## Known Bugs
 * Design will be improved
 * Improvements to floating could be implemented after more experience and practice is had.
+* Less abuse of the <br> tag once a solution
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)

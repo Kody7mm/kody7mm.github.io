@@ -2,10 +2,11 @@
   margin-top: 25px;
   text-align: left;
   text-align: center;
-  color: gray;
+  color: darkslategrey;
   font-size: 50px;
   text-decoration: underline;
   font-weight: 1;
+  background-color: mediumpurple;
 }
 
 .title {
@@ -29,8 +30,7 @@ img {
   width: 125px; 
 }
 
-
-.info {
+.leftinfo {
   font-style: oblique;
   float: left;
   font-size: 17px;
@@ -39,6 +39,19 @@ img {
   background-color: lightblue;
   margin-bottom: 10px;
   padding-left: 8px;
+  margin-right: 25px;
+}
+
+.rightinfo {
+  font-style: unset;
+  float: right;
+  font-size: 20px;
+  border: solid rgb(21, 85, 30);
+  border-width: 3px;
+  background-color: rgb(238, 116, 116);
+  margin-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
   margin-right: 25px;
 }
 
@@ -53,6 +66,15 @@ img {
   font-weight: bold;
 }
 
+.entirepage {
+  background-color: mediumaquamarine;
+}
+
 .about {
   font-style: italic;
+}
+
+img.learn {
+
+width: 150px;
 }

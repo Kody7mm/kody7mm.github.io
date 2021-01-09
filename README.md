@@ -12,7 +12,7 @@ This website was built to showcase the projects and work of Kody Gordon. Inside 
 
 ## Setup/Installation Requirement
 * [Portfolio](https://github.com/kody7mm/portfolio.git)
-* [gh-pages](https://github.com/Kody7mm/kody7mm.github.io.git/portfolio)
+* [GitHub Website Link](https://https://kody7mm.github.io/)
 * Can be cloned from [repository](https://github.com/kody7mm/portfolio.git)
 
 ## Known Bugs

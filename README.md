@@ -18,7 +18,7 @@ This website was built to showcase the projects and work of Kody Gordon. Inside 
 ## Known Bugs
 * Design will be improved
 * Improvements to floating could be implemented after more experience and practice is had.
-* Less abuse of the <br> tag once a solution.
+* Less abuse of the <br> tag once a solution
 
 ## License
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)

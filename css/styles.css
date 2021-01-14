@@ -39,9 +39,10 @@ img {
   border: solid black;
   border-width: 2px;
   background-color: lightblue;
-  margin-bottom: 10px;
+  margin-bottom: 210px;
   padding-left: 8px;
   margin-right: 40px;
+  width: 133px;
 }
 
 .rightinfo {
@@ -55,6 +56,7 @@ img {
   padding-left: 8px;
   padding-right: 8px;
   margin-right: 25px;
+  width: 150px;
 }
 
 .subtitle {
